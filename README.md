@@ -1,4 +1,3 @@
-# SAP-Closed-Loop-Inventory-and-Stockout-Risk-Audit-Tool
 SAP Closed-Loop Inventory & Stockout Risk Audit Tool
 A Python-based data integration and analytics tool designed to process local SAP HTML/MHTML exports (⁠MB52⁠ inventory snapshots and ⁠MB51⁠ movement logs). The tool calculates projected ending stock balances using a net movement model, categorizes SAP movement types, flags high-risk stockouts, normalizes unit-of-measure discrepancies (such as liquids, wires, and extrusions), and generates an interactive, searchable HTML reporting dashboard.
 Key Features
